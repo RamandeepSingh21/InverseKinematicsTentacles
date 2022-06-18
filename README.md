@@ -1,7 +1,7 @@
 # InverseKinematicsTentacles
 Simple Implementation of inverse kinematics to create tentacles that follow a target.
 
-#Steps
+# Steps
 1. Run server.js using node.
 2. Go to localhost:3000;
 
